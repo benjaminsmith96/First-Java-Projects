@@ -1,0 +1,23 @@
+1,Manchester United
+2,Chelsea
+3,Arsenal
+4,Liverpool
+5,Manchester City
+6,Tottenham
+7,Southampton
+8,West Ham United
+9,Everton
+10,Newcastle United
+11,Crystal Palace
+12,Leicester City
+13,Aston Villa,
+14,Sunderland
+15,Queens Park Rangers
+16,Stoke City
+17,Swansea City
+18,West Bromwich Albion
+19,Hull City
+20,Burnley
+21,Fulham
+22,Norwich City
+23,Cardiff City
